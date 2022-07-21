@@ -1,0 +1,55 @@
+  .adminPanelInputs {
+    width: 50%;
+    padding: 1vmax 2vmax;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    font: 100 1rem "Roboto", sans-serif;
+    outline: none;
+    margin: 2vmax;
+    box-sizing: border-box;
+  }
+
+.login {
+    width: 400px;
+    /* background: #fff; */
+    /* opacity: 0.8; */
+    /* border: 1px solid black; */
+    /* box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%); */
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 35%;
+}
+
+.login > input {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 1rem;
+}
+
+.login > .button {
+    background: #421917;
+    border: 1px solid #000000;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.3rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+
+
+.loginPage{
+    position: absolute;
+  top: 20%;
+  left: 35%;
+  }
